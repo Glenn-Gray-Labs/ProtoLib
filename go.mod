@@ -1,4 +1,4 @@
-module github.com/Glenn-Gray-Labs/ProtoLib
+module github.com/Glenn-Gray-Labs/paflib
 
 go 1.13
 

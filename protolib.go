@@ -1,4 +1,4 @@
-package ProtoLib
+package paflib
 
 import (
 	"github.com/Glenn-Gray-Labs/imgui"
